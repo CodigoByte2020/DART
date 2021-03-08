@@ -1,0 +1,66 @@
+<<<<<<<<<<<<<<< DART >>>>>>>>>>>>>>>
+------------------------------------
+
+CLASE 07: CONCEPTOS IMPORTANTES
+
+Toda variable es un objeto.
+Las notaciones son opcionales (tipado de variables)
+List<dinamic>, List<int>, List<Modelo>
+No existen la palabras reservadas public, protected, private.
+_privado: _unMetodo(), _unaVariable
+Tiene operador ternario. (Condicion ? Expresion1 : Expresion2)
+Tiene advertencias y errores.
+Sentencias if, else, etc.
+Una sentencia puede contener una o mas expresiones.
+Una expresion no puede contener una sentencia.
+
+CLASE 08: ESTRUCTURA DE UN PROYECTO
+En la carpeta bin va el método main del proyecto.
+En la carpeta lib va toda nuestra lógica.
+En pubspec.lock van las dependencias. ? 
+En pubspec.yaml va la configuración general de proyecto. ?
+
+En el archivo principal se importa las clases que usara el proyecto y les 
+asignamos una alias, para llamar a usar sus métodos y variables.
+
+CLASE 09: VARIABLES Y TIPOS DE DATOS
+var: tipo de dato mutable, si no se le asigno un valor en la declaración.
+dynamic: tipo de dato mutable.
+
+CLASE 10: COMENTARIOS
+/** Documentación del programa
+* ..... -> ........
+* ..... -> ........
+*/
+
+CLASE 11, 12: METODOS DE TIPO STRING
+El operador ternario es una expresion que retorna un valor booleano. (?)
+
+CLASE 13: STRING BUFFER
+Permite concatenar cadenas eficientemente.
+
+CLASE 14, 15: LISTAS
+En dart no existen los arrays.
+
+
+
+
+
+
+**********************************************
+ANOTACIONES:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+- La palabra clave new es innecesaria.
+
+
+
+
+
+
+
+***********************************************
+
+
+
+
+
